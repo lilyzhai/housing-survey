@@ -15,26 +15,28 @@ The goal of this project is to conduct a detailed analysis of the state of (stud
 * What are the most desirable areas, and how can we predict a posting's "desirability"?
 * What trends can we observe when we sort by area, number of bedrooms/bathrooms, and more? 
 * What features are most predictive of the price? Any surprising insights?  
-* ...and many more to be thought of!
+* **...and many more to be thought of!**
+
+This is an exploratory project, so feel free to bring up anything you would like answered or explored!
 
 Join this project if you have any interest in the following:
 * web systems and scraping
 * data visualization
 * natural language processing
 * working with biased data 
-* *machine learning as used in regression(?)*
-* (finding housing for next year, lol)
+* *machine learning - regression*
+* finding housing for next year, lol
 
 ## Goals 
 1. Acquaint members with the basic structure and timeline of a data science project
-2. Provide members with practical, hands-on experience in tools commonly used in industry and research: web scraping, various ML algorithms, version control, etc.
+2. Provide members with practical, hands-on experience in tools commonly used in industry and research: web scraping, regression algorithms, version control, etc.
 3. Identify key trends in housing and generate applicable insights that could help a potential confused student decide where to sign next year
-4. Publish results and final visualization in the Michigan Daily
+4. Publish results and visualization in the Michigan Daily
 5. Have fun and learn something! :)
 
 ## Stretch Goals
-1. Gather historic data and visualize how prices/etc. have changed over time
+1. Gather historic data and visualize how features have changed over time
 2. Compare results to that of other "Ann Arbor-like" college towns (Madison, Urbana/Champaign, Durham?)
-    - This needs to be formalized: develop a metric for similarity
+    - *this needs to be formalized: develop a metric for similarity first*
 3. Price prediction?
     - Given a location, predict how much housing is likely to cost (this is a simple regression task; probably too easy!)
