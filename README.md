@@ -39,4 +39,4 @@ Join this project if you have any interest in the following:
 2. Compare results to that of other "Ann Arbor-like" college towns (Madison, Urbana/Champaign, Durham?)
     - *this needs to be formalized: develop a metric for similarity first*
 3. Price prediction?
-    - Given a location, predict how much housing is likely to cost (this is a simple regression task; probably too easy!)
+    - *given a location, predict how much housing is likely to cost (this is a simple regression task; probably too easy!)*
