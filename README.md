@@ -5,7 +5,7 @@
 Any student at the University of Michigan knows how much it sucks to find affordable housing on- or off-campus. 
 While dorms are a convenient option, they are not necessarily affordable: the cheapest undergrad housing option, a triple, comes out to about [$9,910](https://housing.umich.edu/undergraduate-rates/), or about $1,200 per month. Thus, many people look off-campus for affordable possibilities. However, this search offers just as many, if not more, problems. Affordable housing is often either located in inconvenient locations or lack basic amenities, while locations close to campus tend to have exorbitant prices -- don't even get me started on some of the higher-end apartments! 🤯
 
-If you're a student, grad or undergrad, you probably have a vested interest in improving the off-campus housing search. Even Ann Arbor townies might find some use in this project -- housing trends around campus may be indicative of larger trends in the city at large.
+If you're a student, grad or undergrad, you probably have a vested interest in improving the off-campus housing search. Even Ann Arbor townies might find some use in this project ⁠— housing trends around campus may be indicative of larger trends in the city at large.
 
 ## Description
 The goal of this project is to conduct a detailed analysis of the state of (student) housing in A2 today. Questions that we hope to answer include, but are not limited to:
@@ -45,3 +45,4 @@ Ideally, this is what a sample row from the dataset would look like after cleani
 ------- | ----- | --- | ---- | ---- | ------- | ------------ | ------- | ---- | ------- | --------- | --------------- | ------------ | ------------ | ------ |
 544 N State St, Ann Arbor, MI 48104 | 4250 | 6 | 2 | `None` | PMSI | Medical Campus | 1 | 0 | 1 | water, <br> electricity, <br> heat, <br> ... | house | `None` | This wonderful 6 bedroom 2 bedroom home is... | https://s3.amazonaws.com/photos.rentlinx.com/W150/51048178.jpg, https://s3.amazonaws.com/photos.rentlinx.com/L800/51048179.jpg, https://s3.amazonaws.com/photos.rentlinx.com/L800/51048181.jpg, ... |
 
+There will probably be a little bit more data cleaning/extraction required ⁠— for example, one-hot encoding each type of utility.
