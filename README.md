@@ -2,26 +2,28 @@
 *W2020 MDST Project: a survey of housing in Ann Arbor, Michigan*
 
 ## Introduction
-Any student at the University of Michigan knows how much it sucks to find affordable housing on- or off-campus. 
-While dorms are a convenient option, they are not necessarily affordable: the cheapest undergrad housing option, a triple, comes out to about [$9,910](https://housing.umich.edu/undergraduate-rates/), or about $1,200 per month. Thus, many people look off-campus for affordable possibilities. However, this search offers just as many, if not more, problems. Affordable housing is often either located in inconvenient locations or lack basic amenities, while locations close to campus tend to have exorbitant prices -- don't even get me started on some of the higher-end apartments! 🤯
+Any student at the University of Michigan knows how difficult it is to find affordable housing on- or off-campus. 
+While dorms are a convenient option, they are not necessarily affordable: the cheapest undergrad housing option, a triple, comes out to about [$9,910](https://housing.umich.edu/undergraduate-rates/), or about $1,200 per month. Looking off-campus offers just as many, if not more, problems. Affordable housing is often located in inconvenient locations, while locations close to campus tend to have exorbitant prices; don't even get me started on some of the higher-end apartments! 🤯
 
-If you're a student, grad or undergrad, you probably have a vested interest in improving the off-campus housing search. Even Ann Arbor townies might find some use in this project ⁠— housing trends around campus may be indicative of larger trends in the city at large.
+If you're a student, grad or undergrad, you probably have a vested interest in improving the off-campus housing search. Even Ann Arbor townies might find some use in this project ⁠— housing trends around campus may be indicative of greater trends in the city at large.
 
 ## Description
 The goal of this project is to conduct a detailed analysis of the state of (student) housing in A2 today. Questions that we hope to answer include, but are not limited to:
-* Where is the "optimal" place to live, taking into account metrics such as price, room size, and location?
-* What are the most desirable areas, and how can we predict a posting's "desirability"?
-* What trends can we observe when we sort by area, number of bedrooms/bathrooms, and more? 
+* Where is the "optimal" place to live, taking into account features such as price, room size, and location? Can we come up with a metric for optimality?
+* What are the most desirable areas, and (how) can we predict a posting's "desirability"?
+* What trends can we observe when we sort by various metrics or features? 
 * What features are most predictive of the price? Any surprising insights?  
 * **...and many more to be thought of!**
 
-This is an exploratory project, so feel free to bring up anything you would like answered or explored!
+This is an exploratory project, so feel free to bring up anything you would like answered or explored! The scope of this project is not yet set in stone.
 
 Join this project if you have any interest in the following:
 * web systems and scraping
 * data visualization
 * natural language processing 
-* *machine learning - regression*
+* machine learning 
+    - regression 
+    - supervised learning
 * finding housing for next year, lol
 
 ## Goals 
