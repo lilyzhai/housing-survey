@@ -30,13 +30,14 @@ Join this project if you have any interest in the following:
 1. Acquaint members with the basic structure and timeline of a data science project
 2. Provide members with practical, hands-on experience in tools commonly used in industry and research: web scraping, regression techniques, version control, etc.
 3. Identify key trends in housing and generate applicable insights that could help inform a potentially confused student in their housing search
-4. Develop a regression model that can output a price range given user input; this would consist of requirements like number of bedrooms, location, etc.
+4. Develop a regression model that can output a price range given user input; this would consist of "requirements" such as number of bedrooms, location, etc.
 5. Build an interactive data visualization ⁠— a choropleth map ⁠— that best highlights trends and features
 6. Publish results and visualization in the *Statement* with the Michigan Daily
 7. Have fun and learn something! :)
 
 ## Stretch Goals
 1. Gather historical data and visualize how features have changed over time
+    - *TODO: obtain historical data (at least 5 years worth)
 2. Compare results to that of other "Ann Arbor-like" college towns (Madison, Urbana/Champaign, Durham?)
     - *TODO: develop a metric for similarity*
    
