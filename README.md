@@ -37,7 +37,7 @@ Join this project if you have any interest in the following:
 
 ## Stretch Goals
 1. Gather historical data and visualize how features have changed over time
-    - *TODO: obtain historical data (at least 5 years worth)
+    - *TODO: obtain historical data (at least 5 years worth)*
 2. Compare results to that of other "Ann Arbor-like" college towns (Madison, Urbana/Champaign, Durham?)
     - *TODO: develop a metric for similarity*
    
