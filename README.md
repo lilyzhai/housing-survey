@@ -22,8 +22,8 @@ Join this project if you have any interest in the following:
 * data visualization
 * natural language processing 
 * machine learning 
-    - supervised learning: regression 
-    - unsupervised learning: clustering 
+    - supervised learning: *regression* 
+    - unsupervised learning: *clustering* 
 * finding housing for next year, lol
 
 ## Goals
@@ -51,4 +51,18 @@ Ideally, this is what a sample row from the dataset would look like after cleani
 There will probably be a little bit more data cleaning/extraction required ⁠— for example, one-hot encoding each type of utility.
 
 ## Project Roadmap
-*TODO: make the project roadmap :/*
+Week of **2/15**: Exploratory Data Analysis (EDA)
+
+Week of **2/22**:
+
+Week of **2/29**: [SPRING BREAK]
+
+Week of **3/7**:
+ 
+Week of **3/14**:
+
+Week of **3/21**:
+
+Week of **3/28**:
+
+Week of **4/4**:
