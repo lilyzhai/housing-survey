@@ -22,8 +22,8 @@ Join this project if you have any interest in the following:
 * data visualization
 * natural language processing 
 * machine learning 
-    - regression methods
-    - supervised learning
+    - supervised learning: regression 
+    - unsupervised learning: clustering 
 * finding housing for next year, lol
 
 ## Goals
