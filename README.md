@@ -49,3 +49,6 @@ Ideally, this is what a sample row from the dataset would look like after cleani
 544 N State St, Ann Arbor, MI 48104 | 4250 | 6 | 2 | `None` | PMSI | Medical Campus | 1 | 0 | 1 | water, <br> electricity, <br> heat, <br> ... | house | `None` | This wonderful 6 bedroom 2 bedroom home is... | https://s3.amazonaws.com/photos.rentlinx.com/W150/51048178.jpg, https://s3.amazonaws.com/photos.rentlinx.com/L800/51048179.jpg, https://s3.amazonaws.com/photos.rentlinx.com/L800/51048181.jpg, ... |
 
 There will probably be a little bit more data cleaning/extraction required ⁠— for example, one-hot encoding each type of utility.
+
+## Project Roadmap
+*TODO: make the project roadmap :/*
