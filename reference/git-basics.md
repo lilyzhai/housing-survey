@@ -29,12 +29,12 @@ The way Git works, we want to be able to work independently on different parts o
 
 To create a branch:
     
-     ```git checkout -b <BRANCH_NAME>```
+    git checkout -b <BRANCH_NAME>
      
 Do some work in that branch; you won't be able to push any changes if you don't have any!
 Then, you'll stage and commit your changes. Finally:
 
-    ```git push -u origin <BRANCH_NAME>```
+    git push -u origin <BRANCH_NAME>
     
 **NOTE**: you only have to do the above the first time you push changes just so Git knows where to push the changes to. Otherwise, ```git push``` will work fine.
 
