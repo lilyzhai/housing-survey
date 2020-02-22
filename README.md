@@ -62,7 +62,9 @@ There will probably be a little bit more data cleaning/extraction required ‚Å†‚Ä
 ## Project Roadmap
 Week of **2/15**: Exploratory Data Analysis (EDA)
 
-Week of **2/22**: Feature Extraction and Intro ML
+Week of **2/22**:
+- *Group 1*: Geocoding
+- *Group 2*: Natural Language Processing - Topic Modeling
 
 Week of **2/29**: [SPRING BREAK]
 
