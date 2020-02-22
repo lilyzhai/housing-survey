@@ -60,7 +60,7 @@ Ideally, this is what a sample row from the dataset would look like after cleani
 There will probably be a little bit more data cleaning/extraction required ⁠— for example, one-hot encoding each type of utility.
 
 ## Project Roadmap
-Week of **2/15**: Exploratory Data Analysis (EDA)
+Week of **2/15**: Exploratory Data Analysis
 
 Week of **2/22**:
 - *Group 1*: Geocoding
