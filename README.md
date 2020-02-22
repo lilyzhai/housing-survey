@@ -1,6 +1,14 @@
 # Ann Arbor Housing Survey
 *W2020 MDST Project: a survey of housing in Ann Arbor, Michigan*
 
+## Table of Contents 
+* [Introduction](#introduction)
+* [Description](#description)
+* [Goals](#goals)
+* [Stretch Goals](#stretch-goals)
+* [A Look at the Data](#a-look-at-the-data)
+* [Project Roadmap](#project-roadmap)
+
 ## Introduction
 Any student at the University of Michigan knows how difficult it is to find affordable housing on- or off-campus. 
 While dorms are a convenient option, they are not necessarily affordable: the cheapest undergrad housing option, a triple, comes out to about [$9,910](https://housing.umich.edu/undergraduate-rates/), or about $1,200 per month. Looking off-campus offers just as many, if not more, problems. Affordable housing is often located in inconvenient locations, while locations close to campus tend to have exorbitant prices ⁠— don't even get me started on some of the higher-end apartments! 🤯
@@ -21,6 +29,7 @@ Join this project if you have any interest in the following:
 * web systems and scraping
 * data visualization
 * natural language processing 
+* geographic data
 * machine learning 
     - supervised learning: *regression* 
     - unsupervised learning: *clustering* 
@@ -51,9 +60,11 @@ Ideally, this is what a sample row from the dataset would look like after cleani
 There will probably be a little bit more data cleaning/extraction required ⁠— for example, one-hot encoding each type of utility.
 
 ## Project Roadmap
-Week of **2/15**: Exploratory Data Analysis (EDA)
+Week of **2/15**: Exploratory Data Analysis
 
 Week of **2/22**:
+- *Group 1*: Geocoding
+- *Group 2*: Natural Language Processing - Topic Modeling
 
 Week of **2/29**: [SPRING BREAK]
 
@@ -66,3 +77,5 @@ Week of **3/21**:
 Week of **3/28**:
 
 Week of **4/4**:
+
+some stuff
