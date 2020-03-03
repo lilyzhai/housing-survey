@@ -69,8 +69,12 @@ Week of **2/22**:
 Week of **2/29**: [SPRING BREAK]
 
 Week of **3/7**:
+- *Group 1*: Geocoding
+- *Group 2*: Natural Language Processing - Topic Modeling
  
 Week of **3/14**:
+- *Group 1*: Regression Model
+- *Group 2*: Choropleth Map
 
 Week of **3/21**:
 
