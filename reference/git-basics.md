@@ -6,9 +6,7 @@ Two people should never be working on the same branch at the same time, unless t
 ## General Workflow
 https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
 
-**ALWAYS ```pull``` new changes before you do anything!**
-      
-      ```git pull```
+**ALWAYS ```git pull``` to fetch new changes before you push anything!**
 
 Let's say you're working on a branch and you are ready to push your files to Git.
 The process has three steps.
