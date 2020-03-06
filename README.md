@@ -64,16 +64,16 @@ Week of **2/15**: Exploratory Data Analysis
 
 Week of **2/22**:
 - *Group 1*: Geocoding
-- *Group 2*: Natural Language Processing - Topic Modeling
+- *Group 2*: Natural Language Processing
 
-Week of **2/29**: [SPRING BREAK]
+Week of **2/29**: *SPRING BREAK*
 
 Week of **3/7**:
 - *Group 1*: Geocoding
-- *Group 2*: Natural Language Processing - Topic Modeling
+- *Group 2*: Natural Language Processing
  
 Week of **3/14**:
-- *Group 1*: Regression Model
+- *Group 1*: Regression Analysis
 - *Group 2*: Choropleth Map
 
 Week of **3/21**:
