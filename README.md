@@ -111,4 +111,3 @@ Week of **4/4**:
 Week of **4/11**:
 - Final Report
 - Conclusions and Next Steps
-- Stretch Goals?
