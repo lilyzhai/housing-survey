@@ -16,11 +16,10 @@ While dorms are a convenient option, they are not necessarily affordable: the ch
 If you're a student, grad or undergrad, you probably have a vested interest in improving the off-campus housing search. Even Ann Arbor townies might find some use in this project ⁠— housing trends around campus may be indicative of greater trends in the city at large.
 
 ## Description
-The goal of this project is to conduct a detailed analysis of the state of (student) housing in A2 today. Questions that we hope to answer include, but are not limited to:
-* Where is the "optimal" place to live, taking into account features such as price, room size, and location? Can we come up with a metric for optimality?
-* What are the most desirable areas, and (how) can we predict a posting's "desirability"?
-* What trends can we observe when we sort by various metrics or features? 
-* What features are most predictive of the price? Any surprising insights?  
+The goal of this project is to conduct a detailed analysis of the state of student housing in A2 today as well as create a tool that students could feasibly use to make decisions about housing. Questions that we hope to answer include, but are not limited to:
+* What trends can we observe in the listings when sorting by various features? Are there distinct trends at the neighborhood level?
+* How can we develop a regression model to predict price with a reasonable degree of accuracy? What features seem to be most predictive of the price?
+* Realty websites are kind of sketchy. After all, they *are* trying to sell you something! To this end, what interesting insights can we extract from the posted descriptions of each listing?
 * **...and many more to be thought of!**
 
 This is an exploratory project, so feel free to bring up anything you would like answered or explored! The scope of this project is not yet set in stone.
@@ -49,9 +48,11 @@ Join this project if you have any interest in the following:
     - *TODO: obtain historical data (at least 5 years worth)*
 2. Compare results to that of other "Ann Arbor-like" college towns (Madison, Urbana/Champaign, Durham?)
     - *TODO: develop a metric for similarity*
+3. Incorporate images of the listings into the regression model
+    - *TODO: a lot of pre-processing and feature engineering*
    
 ## A Look at the Data
-Ideally, this is what a sample row from the dataset would look like after cleaning and feature extraction.
+Ideally, this is what a sample row from the dataset would look like after preliminary cleaning and feature extraction.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (`string`) | price (`float`) | bed (`int`) | bath (`float`)| area (`float`)| company (`string`)| neighborhood (`string`)| laundry (`boolean`)| pets (`boolean`)| parking (`boolean`)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;utilities&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> (`list` of type `string`)| property_type (`string`) | year_built (`int`) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> (`string`) | images <br> (`list` of type `string`) |
 ------- | ----- | --- | ---- | ---- | ------- | ------------ | ------- | ---- | ------- | --------- | --------------- | ------------ | ------------ | ------ |
@@ -62,24 +63,51 @@ There will probably be a little bit more data cleaning/extraction required ⁠�
 ## Project Roadmap
 Week of **2/15**: Exploratory Data Analysis
 
+---
+
 Week of **2/22**:
-- *Group 1*: Geocoding
-- *Group 2*: Natural Language Processing
+- Geocoding
+- Natural Language Processing
+
+---
 
 Week of **2/29**: *SPRING BREAK*
 
+---
+
 Week of **3/7**:
-- *Group 1*: Geocoding
-- *Group 2*: Natural Language Processing
- 
+- Geocoding
+- Natural Language Processing
+
+---
+
 Week of **3/14**:
-- *Group 1*: Regression Analysis
-- *Group 2*: Choropleth Map
+- Regression Analysis
+- Choropleth Map
+
+---
 
 Week of **3/21**:
+- Regression Analysis
+- Choropleth Map
+
+---
 
 Week of **3/28**:
+- Choropleth Map
+- Preliminary Report
+
+We plan to submit our report to the *Statement* at this point!
+
+---
 
 Week of **4/4**:
+- Choropleth Map
+- Final Report
 
-some stuff
+---
+
+Week of **4/11**:
+- Final Report
+- Conclusions and Next Steps
+- Stretch Goals?
