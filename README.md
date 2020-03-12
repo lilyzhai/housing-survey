@@ -44,12 +44,14 @@ Join this project if you have any interest in the following:
 7. Have fun and learn something! :)
 
 ## Stretch Goals
-1. Gather historical data and visualize how features have changed over time
-    - *TODO: obtain historical data (at least 5 years worth)*
-2. Compare results to that of other "Ann Arbor-like" college towns (Madison, Urbana/Champaign, Durham?)
-    - *TODO: develop a metric for similarity*
-3. Incorporate images of the listings into the regression model
-    - *TODO: a lot of pre-processing and feature engineering*
+1. Bundle regression model and interactive map into a web app
+    - *requires: Flask, React bootcamp*
+2. Gather historical data and visualize how features have changed over time
+    - *requires: obtain historical data (at least 5 years worth)*
+3. Compare results to that of other "Ann Arbor-like" college towns (Madison, Urbana/Champaign, Durham?)
+    - *requires: a metric for similarity*
+4. Incorporate images of the listings into the regression model
+    - *requires: a lot of pre-processing and feature engineering*
    
 ## A Look at the Data
 Ideally, this is what a sample row from the dataset would look like after preliminary cleaning and feature extraction.
