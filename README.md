@@ -47,9 +47,9 @@ Join this project if you have any interest in the following:
 1. Bundle regression model and interactive map into a web app
     - *requires: Flask, React bootcamp*
 2. Gather historical data and visualize how features have changed over time
-    - *requires: obtain historical data (at least 5 years worth)*
+    - *requires: obtain historical data (at least 3-5 years worth)*
 3. Compare results to that of other "Ann Arbor-like" college towns (Madison, Urbana/Champaign, Durham?)
-    - *requires: a metric for similarity*
+    - *requires: a metric for similarity, additional data collection*
 4. Incorporate images of the listings into the regression model
     - *requires: a lot of pre-processing and feature engineering*
    
