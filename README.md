@@ -27,11 +27,10 @@ This is an exploratory project, so feel free to bring up anything you would like
 Join this project if you have any interest in the following:
 * web systems and scraping
 * data visualization
-* natural language processing 
-* geographic data
+* natural language processing
+* geographic information systems (GIS)
 * machine learning 
     - supervised learning: *regression* 
-    - unsupervised learning: *clustering* 
 * finding housing for next year, lol
 
 ## Goals
@@ -45,7 +44,7 @@ Join this project if you have any interest in the following:
 
 ## Stretch Goals
 1. Bundle regression model and interactive map into a web app
-    - *requires: Flask, React bootcamp*
+    - *requires: web development bootcamp*
 2. Gather historical data and visualize how features have changed over time
     - *requires: obtain historical data (at least 3-5 years worth)*
 3. Compare results to that of other "Ann Arbor-like" college towns (Madison, Urbana/Champaign, Durham?)
