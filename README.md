@@ -10,8 +10,11 @@
 * [Project Roadmap](#project-roadmap)
 
 ## Introduction
-Any student at the University of Michigan knows how difficult it is to find affordable housing on- or off-campus. 
-While dorms are a convenient option, they are not necessarily affordable: the cheapest undergrad housing option, a triple, comes out to about [$9,910](https://housing.umich.edu/undergraduate-rates/), or about $1,200 per month. Looking off-campus offers just as many, if not more, problems. Affordable housing is often located in inconvenient locations, while locations close to campus tend to have exorbitant prices ⁠— don't even get me started on some of the higher-end apartments! 🤯
+Welcome to Ann Arbor, Michigan: home of the Wolverines, food lover’s paradise, hotbed of political activism, and … really expensive rent?
+
+Any student at the University of Michigan knows how difficult it is to find affordable housing. While residence halls can be a convenient option, they can also be pricey: even the cheapest undergrad housing option, a triple, comes out to about [$9910](https://housing.umich.edu/undergraduate-rates/), or about $1200 per month. 
+
+Looking off-campus can be cheaper, but that poses its own challenges. Off-campus housing is often located in inconvenient locations, while locations closer to campus can be quite expensive ⁠— don't even get me started on some of the bougie high-rises that have been popping up everywhere! 🤯
 
 If you're a student, grad or undergrad, you probably have a vested interest in improving the off-campus housing search. Even Ann Arbor townies might find some use in this project ⁠— housing trends around campus may be indicative of greater trends in the city at large.
 
@@ -99,13 +102,13 @@ Week of **3/28**:
 - Choropleth Map
 - Preliminary Report
 
-We plan to submit our report to the *Statement* at this point!
-
 ---
 
 Week of **4/4**:
 - Choropleth Map
 - Final Report
+
+We plan to submit our report to the *Statement* at this point!
 
 ---
 
