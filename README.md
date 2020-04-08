@@ -110,7 +110,7 @@ Week of **4/4**:
 
 We plan to submit our report to the *Statement* at this point!
 
-*UPDATE: this has been pushed back to fall*
+***UPDATE: this has been pushed back to fall***
 
 ---
 
