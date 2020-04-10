@@ -1,6 +1,10 @@
 # Ann Arbor Housing Survey
 *W2020 MDST Project: a survey of housing in Ann Arbor, Michigan*
 
+Read the final report [here](https://github.com/ericch99/housing-survey/blob/master/FINAL-REPORT.pdf).
+
+---
+
 ## Table of Contents 
 * [Introduction](#introduction)
 * [Description](#description)
